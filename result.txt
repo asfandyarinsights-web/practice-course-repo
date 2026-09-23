@@ -1,0 +1,2 @@
+GitHub Lab Exercise
+Successfully created result.txt
